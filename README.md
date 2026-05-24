@@ -1,16 +1,19 @@
-## Hi there 👋
+I'm Shepherd Makasa, an aspiring Software Engineer and Full Stack Developer passionate about building modern and practical software solutions.
 
-<!--
-**shepherdmakasa06/shepherdmakasa06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###Tech Stack
 
-Here are some ideas to get you started:
+-HTML & CSS
+-JavaScript
+-Python
+-SQL
+-Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Currently Learning
+-Full Stack Web Development
+-Mobile App Development
+-Database Design
+-Software Engineering Principles
+
+📫 Connect With Me
+GitHub:https://github.com/shepherdmakasa06/
+LinkedIn:https://www.linkedin.com/in/shepherd-makasa-2a677a314/
