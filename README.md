@@ -33,7 +33,7 @@ I enjoy turning ideas into real-world applications and continuously improving my
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/shepherdmakasa06)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shepherd-makasa-2a677a314/)
